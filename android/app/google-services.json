@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135454873890",
+    "firebase_url": "https://ez-fast-now-default-rtdb.firebaseio.com",
+    "project_id": "ez-fast-now",
+    "storage_bucket": "ez-fast-now.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135454873890:android:85096b7272e2290978ed7b",
+        "android_client_info": {
+          "package_name": "com.app.ezfastnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135454873890-ms13h35ml0k02fg9nd7qhhutu9pkjgc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCztO1Xss6KZ-BKzA2ers2YCwy84KawBaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135454873890-ms13h35ml0k02fg9nd7qhhutu9pkjgc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
